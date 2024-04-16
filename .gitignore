@@ -1,3 +1,5 @@
 
 env
 product/migrations/
+config/__pycache__/
+product/__pycache__/
